@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.conversionapptestnow">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ConversionAppTestNow">
+        <activity
+            android:name=".coinUnits"
+            android:exported="true" />
+        <activity
+            android:name=".kitchUnits"
+            android:exported="true" />
+        <activity
+            android:name=".lengthUnits"
+            android:exported="true" />
+        <activity
+            android:name=".fuelUnits"
+            android:exported="true" />
+        <activity
+            android:name=".timeUnits"
+            android:exported="true" />
+        <activity
+            android:name=".pressUnits"
+            android:exported="true" />
+        <activity
+            android:name=".byteUnits"
+            android:exported="true" />
+        <activity
+            android:name=".tempUnits"
+            android:exported="true" />
+        <activity
+            android:name=".weightUnits"
+            android:exported="true" />
+        <activity
+            android:name=".conversionUnits"
+            android:exported="true" />
+        <activity
+            android:name=".MainScreen"
+            android:exported="true"
+            android:label="Home" />
+        <activity
+            android:name=".splashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

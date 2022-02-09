@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">ConversionAppTestNow</string>
+    <string name="convert_io">Convert.io</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="unitsWeight">
+        <item>μg</item>
+        <item>mg</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>lb</item>
+        <item>oz</item>
+        <item>grain</item>
+        <item>tonne (metric)</item>
+        <item>ton</item>
+        <item>stone</item>
+        <item>carat</item>
+    </string-array>
+
+    <string-array name="unitsTemp">
+        <item>°C</item>
+        <item>°F</item>
+        <item>K</item>
+    </string-array>
+
+    <string-array name="unitsBytes">
+        <item>bit</item>
+        <item>Byte</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+        <item>TB</item>
+        <item>PB</item>
+    </string-array>
+
+
+    <string-array name="unitsTime">
+        <item>ms</item>
+        <item>sec</item>
+        <item>min</item>
+        <item>hour</item>
+        <item>day</item>
+        <item>week</item>
+        <item>month</item>
+        <item>year</item>
+    </string-array>
+
+    <string-array name="unitsFuel">
+        <item>km/l</item>
+        <item>mi/l</item>
+        <item>km/gal</item>
+        <item>mi/gal</item>
+    </string-array>
+
+    <string-array name="unitsKitch">
+        <item>ml</item>
+        <item>teaspoon</item>
+        <item>tablespoon</item>
+        <item>Cup</item>
+        <item>fl oz</item>
+        <item>pt</item>
+    </string-array>
+
+    <string-array name="unitsLength">
+        <item>mm</item>
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+        <item>inch</item>
+        <item>foot</item>
+        <item>yard</item>
+        <item>mile</item>
+    </string-array>
+    <string-array name="unitsCoin">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+        <item>GBP</item>
+        <item>CAD</item>
+        <item>INR</item>
+        <item>PKR</item>
+        <item>QAR</item>
+    </string-array>
+    <string-array name="unitsVol">
+        <item>Vol test</item>
+    </string-array>
+    <string-array name="unitsPres">
+        <item>atm</item>
+        <item>bar</item>
+        <item>mbar</item>
+        <item>MPa</item>
+        <item>kPa</item>
+        <item>Pa</item>
+        <item>psf</item>
+        <item>psi</item>
+    </string-array>
+
+</resources>

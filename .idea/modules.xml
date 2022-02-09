@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConversionAppTestNow.iml" filepath="$PROJECT_DIR$/.idea/modules/ConversionAppTestNow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ConversionAppTestNow.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ConversionAppTestNow.app.iml" />
+    </modules>
+  </component>
+</project>
